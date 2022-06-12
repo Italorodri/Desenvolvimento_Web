@@ -1,0 +1,88 @@
+
+li{
+ list-style-type: none; 
+}
+
+h3{
+ color: rgb(15, 20, 25); 
+}
+
+h5{
+ color: rgb(83, 100, 113);   
+}
+
+.biografia {
+ color: rgb(15, 20, 25);
+}
+
+.tzeet {
+ color: rgb(15, 20, 25); 
+}
+
+.informacoes a{
+ color: rgb(83, 100, 113);
+ text-decoration: none;
+}
+
+#navegacao a{
+ color: rgb(15, 20, 25);
+ text-decoration: none;
+}
+
+#navegacao li:hover{
+ background-color: rgba(15, 25, 20, 0.1);
+ border-radius: 15px 20px 30px;
+}
+
+#estatistica strong{
+ color: rgb(15, 20, 25);
+}
+
+#estatistica a{
+ color: rgb(83, 100, 113);
+ text-decoration: none;
+}
+
+#estatistica a:hover{
+text-decoration: underline;
+}
+
+#publicacao a{
+ color: rgb(83, 100, 113);
+ text-decoration: none;
+}
+
+#publicacao a:hover{
+color: black;    
+text-decoration: underline;
+}
+
+.arroba{
+color: rgb(83, 100, 113);
+}
+
+#acoes a{
+ color: rgb(83, 100, 113);
+ text-decoration: none;
+}
+
+#acoes .acao01:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(29, 155, 240, 1);
+    border-radius: 15px 20px 30px;
+    text-decoration: underline;
+}
+
+#acoes .acao02:hover{
+    background-color: rgba(0, 186, 124, 0.1);
+    color:  rgba(0, 186, 124, 1);
+    border-radius: 15px 20px 30px;
+    text-decoration: underline;
+}
+
+#acoes .acao03:hover{
+    background-color: rgba(249, 24, 128, 0.1);
+    color: rgba(249, 24, 128, 1);
+    border-radius: 15px 20px 30px;
+    text-decoration: underline;
+}
